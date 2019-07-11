@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+@import 'style.less';
+
+.element-center-flex {
+  display: flex !important;
+  justify-content: center
+}
